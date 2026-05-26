@@ -1,0 +1,13 @@
+## Important Note
+
+Initially, the localhost URL was shared during submission by mistake.
+Please use the following deployed Render URL for testing APIs.
+
+Base URL:
+https://javaapiround.onrender.com
+
+Health Endpoint:
+https://javaapiround.onrender.com/health
+
+POST Endpoint:
+https://javaapiround.onrender.com/bfhl
