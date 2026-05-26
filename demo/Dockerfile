@@ -2,12 +2,8 @@ FROM eclipse-temurin:21
 
 WORKDIR /app
 
-COPY . .
-
-RUN chmod +x mvnw
-
-RUN ./mvnw clean package -DskipTests
+COPY target/demo-0.0.1-SNAPSHOT.jar app.jar
 
 EXPOSE 8080
 
-CMD ["java", "-jar", "target/*.jar"]
+ENTRYPOINT ["java", "-jar", "app.jar"]
