@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="241c583c-7e1f-4747-8cfd-8605f566ba8f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/ApiController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="b313cf8b-f070-4dee-8c68-d7ba7e1bd4d6" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="b313cf8b-f070-4dee-8c68-d7ba7e1bd4d6" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/SMART PHOTOGRAPHY/Downloads/bfhl-project" value="3EG0bmTJVXUpMlMGrsS6tMZ1puf" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3EG0bmTJVXUpMlMGrsS6tMZ1puf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.DemoApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SMART PHOTOGRAPHY/Downloads/bfhl-project"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="241c583c-7e1f-4747-8cfd-8605f566ba8f" name="Changes" comment="" />
+      <created>1779789672616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779789672616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
