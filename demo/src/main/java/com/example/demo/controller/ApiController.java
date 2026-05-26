@@ -7,7 +7,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/bfhl")
 public class ApiController {
 
     private final BfhlService bfhlService;
@@ -16,7 +15,13 @@ public class ApiController {
         this.bfhlService = bfhlService;
     }
 
-    @PostMapping
+    @GetMapping("/health")
+    public String health() {
+
+        return "API is running";
+    }
+
+    @PostMapping("/bfhl")
     public ResponseEntity<BfhlResponse> processData(
             @RequestBody BfhlRequest request
     ) {
